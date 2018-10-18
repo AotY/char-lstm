@@ -24,7 +24,7 @@ category_size = data_set.n_categories
 embedding_size = 128
 hidden_size = 128
 num_layers = 1
-dropout = 0.8
+dropout = 0.0
 max_len = 20
 batch_size = 32
 
